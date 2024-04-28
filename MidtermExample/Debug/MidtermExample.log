@@ -1,0 +1,8 @@
+﻿  LZWCompressor.cpp
+  LZWTable.cpp
+C:\Users\aligo\source\repos\COS30008\MidtermExample\LZWTable.cpp(15,31): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\aligo\source\repos\COS30008\MidtermExample\LZWTable.cpp(20,2): warning C4804: '<': unsafe use of type 'bool' in operation
+  PrefixString.cpp
+  Generating Code...
+C:\Users\aligo\source\repos\COS30008\MidtermExample\LZWTable.cpp(28): warning C4172: returning address of local variable or temporary: found
+  MidtermExample.vcxproj -> C:\Users\aligo\source\repos\COS30008\MidtermExample\Debug\MidtermExample.exe

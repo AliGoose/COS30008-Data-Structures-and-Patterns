@@ -1,0 +1,7 @@
+﻿  LZWCompressor-2 (2).cpp
+  LZWTable-2.cpp
+C:\Users\aligo\source\repos\COS30008\MidtermTest\LZWTable-2.cpp(28,2): warning C4804: '<': unsafe use of type 'bool' in operation
+  Main.cpp
+  PrefixString-2.cpp
+  Generating Code...
+  MidtermTest.vcxproj -> C:\Users\aligo\source\repos\COS30008\MidtermTest\Debug\MidtermTest.exe

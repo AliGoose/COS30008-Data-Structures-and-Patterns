@@ -1,0 +1,68 @@
+﻿  Main.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\aligo\source\repos\COS30008\Lab09\Stack.h(130,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\Users\aligo\source\repos\COS30008\Lab09\Stack.h(175): message : see reference to class template instantiation 'Stack<T>' being compiled
+C:\Users\aligo\source\repos\COS30008\Lab09\Stack.h(130,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\aligo\source\repos\COS30008\Lab09\Stack.h(130,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aligo\source\repos\COS30008\Lab09\Stack.h(131,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(53,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(53,19): error C2065: 'optional': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(53,19): error C2146: syntax error: missing ';' before identifier 'lValue1'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(53,19): error C2065: 'lValue1': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(53,37): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(55,13): error C2065: 'lValue1': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(57,30): error C2065: 'lValue1': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(61,9): error C2065: 'lValue1': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(61,27): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(64,10): error C2065: 'lValue1': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(97,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(97,19): error C2065: 'optional': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(97,19): error C2146: syntax error: missing ';' before identifier 'lValue2'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(97,19): error C2065: 'lValue2': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(97,37): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(99,13): error C2065: 'lValue2': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(101,30): error C2065: 'lValue2': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(105,9): error C2065: 'lValue2': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(105,27): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(108,10): error C2065: 'lValue2': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(136,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(136,19): error C2065: 'optional': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(136,19): error C2146: syntax error: missing ';' before identifier 'lValue3'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(136,19): error C2065: 'lValue3': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(136,36): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(138,13): error C2065: 'lValue3': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(140,30): error C2065: 'lValue3': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(144,9): error C2065: 'lValue3': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(144,26): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(147,10): error C2065: 'lValue3': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(160,5): error C2065: 'lValue3': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(160,23): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(162,10): error C2065: 'lValue3': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(190,10): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(190,19): error C2065: 'optional': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(190,19): error C2146: syntax error: missing ';' before identifier 'lValue4'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(190,19): error C2065: 'lValue4': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(190,37): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(192,10): error C2065: 'lValue4': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(205,5): error C2065: 'lValue4': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(205,23): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(207,13): error C2065: 'lValue4': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(209,30): error C2065: 'lValue4': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(213,9): error C2065: 'lValue4': undeclared identifier
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(213,27): error C2039: 'top': is not a member of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(42): message : see declaration of 'Stack<Data>'
+C:\Users\aligo\source\repos\COS30008\Lab09\Main.cpp(216,10): error C2065: 'lValue4': undeclared identifier

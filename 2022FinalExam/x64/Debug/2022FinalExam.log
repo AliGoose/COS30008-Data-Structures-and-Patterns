@@ -1,0 +1,7 @@
+﻿  Main2022.cpp
+C:\Users\aligo\source\repos\COS30008\2022FinalExam\TernaryTree.h(84,17): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\aligo\source\repos\COS30008\2022FinalExam\TernaryTree.h(78,10): message : while compiling class template member function 'void TernaryTree<std::string>::addSubTree(size_t,const TernaryTree<std::string> &)'
+C:\Users\aligo\source\repos\COS30008\2022FinalExam\TernaryTree.h(49,52): message : see the first reference to 'TernaryTree<std::string>::addSubTree' in 'TernaryTree<std::string>::addRight'
+C:\Users\aligo\source\repos\COS30008\2022FinalExam\Main2022.cpp(347,18): message : see the first reference to 'TernaryTree<std::string>::addRight' in 'runP4'
+C:\Users\aligo\source\repos\COS30008\2022FinalExam\Main2022.cpp(337,19): message : see reference to class template instantiation 'TernaryTree<std::string>' being compiled
+  2022FinalExam.vcxproj -> C:\Users\aligo\source\repos\COS30008\2022FinalExam\x64\Debug\2022FinalExam.exe
